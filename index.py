@@ -7,7 +7,7 @@ print(type(d))
 
 scroe = 60
 if scroe <= 60:
-    print("成绩不理想哦！")
+    print("成绩不理想哦！！！！！")
     pass #空语句
 
 scroe = int(input("请输入成绩："))
