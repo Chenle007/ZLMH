@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="100cf7ea-a705-440e-b701-d31c30928f04" name="Default Changelist" comment="" />
+    <list default="true" id="100cf7ea-a705-440e-b701-d31c30928f04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gaILZKIm4NnlCk7i5MAaAHS1dA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +30,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
@@ -130,6 +140,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="131" key="#ReadComicData/0.0.1920.1040@0.0.1920.1040" timestamp="1600001108971" />
+    <state x="631" y="304" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608109565225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="304" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608109565225" />
+    <state x="127" y="6" key="CommitChangelistDialog2" timestamp="1608109641637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="127" y="6" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608109641637" />
     <state width="1891" height="131" key="GridCell.Tab.0.bottom" timestamp="1608094187283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
