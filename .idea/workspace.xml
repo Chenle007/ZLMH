@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="100cf7ea-a705-440e-b701-d31c30928f04" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gaILZKIm4NnlCk7i5MAaAHS1dA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Python.index">
+    <configuration name="HttpClient" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ZLMH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HttpClient.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReadComicData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ZLMH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReadComicData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ZLMH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.ReadComicData" />
+        <item itemvalue="Python.HttpClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="100cf7ea-a705-440e-b701-d31c30928f04" name="Default Changelist" comment="" />
+      <created>1598346220624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598346220624</updated>
+      <workItem from="1598346243067" duration="246000" />
+      <workItem from="1598346658871" duration="13152000" />
+      <workItem from="1598409086038" duration="1854000" />
+      <workItem from="1598410975515" duration="297000" />
+      <workItem from="1598411529532" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="668" y="131" key="#HttpClient" timestamp="1600001218125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="131" key="#HttpClient/0.0.1920.1040@0.0.1920.1040" timestamp="1600001218125" />
+    <state x="668" y="131" key="#ReadComicData" timestamp="1600001108971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="131" key="#ReadComicData/0.0.1920.1040@0.0.1920.1040" timestamp="1600001108971" />
+    <state width="1891" height="131" key="GridCell.Tab.0.bottom" timestamp="1608094187283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1891" height="131" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608094187283" />
+    <state width="1891" height="131" key="GridCell.Tab.0.center" timestamp="1608094187283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1891" height="131" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608094187283" />
+    <state width="1891" height="131" key="GridCell.Tab.0.left" timestamp="1608094187283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1891" height="131" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608094187283" />
+    <state width="1891" height="131" key="GridCell.Tab.0.right" timestamp="1608094187283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1891" height="131" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608094187283" />
+    <state width="1362" height="320" key="GridCell.Tab.1.bottom" timestamp="1602425192712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602425192712" />
+    <state width="1362" height="320" key="GridCell.Tab.1.center" timestamp="1602425192711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="320" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602425192711" />
+    <state width="1362" height="320" key="GridCell.Tab.1.left" timestamp="1602425192711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="320" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602425192711" />
+    <state width="1362" height="320" key="GridCell.Tab.1.right" timestamp="1602425192711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="320" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602425192711" />
+    <state x="210" y="80" key="SettingsEditor" timestamp="1602425232513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="210" y="80" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602425232513" />
+    <state x="645" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1608092993325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608092993325" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1607757720285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607757720285" />
+  </component>
+</project>
